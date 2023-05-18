@@ -315,5 +315,14 @@
 		"category": "Linting and Formatting",
 		"tags": [],
 		"stars": 0
+	},
+	{
+		"title": "full-client-server-sveltekit",
+		"url": "https://www.npmjs.com/package/full-client-server-sveltekit",
+		"description": "A dummy text generator that does not exist",
+		"npm": "full-client-server-sveltekit",
+		"addedOn": "2023-05-18",
+		"category": "Bundler Plugins",
+		"stars": 0
 	}
 ]
